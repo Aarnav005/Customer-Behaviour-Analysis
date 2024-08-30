@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-behaviour-analysis.git
+   git clone https://github.com/Aarnav005/customer-behaviour-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
