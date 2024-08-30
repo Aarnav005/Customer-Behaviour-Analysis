@@ -12,6 +12,9 @@ The project is organized within a Jupyter Notebook, consisting of the following 
 4. **Modeling**: Application of machine learning models (if included) to predict or classify customer behavior.
 5. **Conclusion**: Summary of findings and potential next steps
 
+##Dataset:
+https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset
+
 ## Usage
 
 To run the notebook, you need to have the following installed:
